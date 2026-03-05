@@ -5,7 +5,7 @@
 - Serial Peripheral Interface (SPI)
 - Complete 13-band Audio Equalizer
 
-# AXI4Lite Buses
+# AXI4Lite Busses
 These buses were developed to facilitate communication between the FPGA board's MicroBlaze processor and other components we would develop. They were also used for communication between components in the final equalizer.
 
 # FIR Filter
